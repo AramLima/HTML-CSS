@@ -85,7 +85,7 @@ nav a:hover{
 
 footer{
     text-align: center;
-    background: url("bg.jpg");
+    background: url("../img/bg.jpg");
     padding: 40px 0;
 }
 
@@ -95,8 +95,9 @@ footer{
     margin: 20px 0;
 }
 
-main{
-    
+.main-contato{
+    width: 940px;
+    margin: 0 auto;
 }
 
 form {
@@ -269,3 +270,4 @@ td, th {
         width: 100%;
     }
 }
+
